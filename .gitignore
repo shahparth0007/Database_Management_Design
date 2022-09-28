@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-Database_Management_Design/Kashyap_Notes
+Kashyap_Notes
 
 # Distribution / packaging
 .Python
