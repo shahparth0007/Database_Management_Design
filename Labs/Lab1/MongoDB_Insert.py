@@ -1,4 +1,6 @@
 import pymongo
+import pandas as pd
+
 client = pymongo.MongoClient("mongodb+srv://team3:qHovInc8WtqPBs7k@newsmonitor.uzcq9.mongodb.net/UserData?retryWrites=true&w=majority")
 print(client["territory"])
 db = client["Lab_1"]
